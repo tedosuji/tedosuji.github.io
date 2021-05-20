@@ -12,6 +12,7 @@
    
   h1 {
     color: SeaGreen;
+    font-size: large;
   }
    
    
@@ -19,6 +20,9 @@
     font-size: 18px;
   }
    
+  li {
+    text-align: left;
+  }
    
   a {
     text-decoration: none;
