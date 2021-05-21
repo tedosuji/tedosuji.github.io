@@ -4,7 +4,7 @@
     margin-right: auto;
   }
    
-  body {
+  body, footer {
     text-align: center;
     margin: auto;
     width: 50%;
