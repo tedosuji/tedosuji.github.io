@@ -27,3 +27,11 @@ p li {
 a {
     text-decoration: none;
   }
+
+.completed {
+  font-weight: bold;
+}
+
+.in-progress {
+  font-style: italic;
+}
